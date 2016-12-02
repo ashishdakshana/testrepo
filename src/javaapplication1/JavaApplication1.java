@@ -20,6 +20,11 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
         Map<String,String> a=new HashMap<>();
+                a.put("hello","world");
+                a.get("hello");
+                System.out.println("hello world");
+                
+                
         
     }
     
